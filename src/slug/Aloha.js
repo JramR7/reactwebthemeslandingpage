@@ -14,32 +14,28 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Apps
+                Tomás Contreras Page
               </a>
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+            Hackerman
           </h3>
           <p>
-            Mudahkan segala urursan dengan laravel apps sebuah technology modern
-            website applikasi untuk kebutuhan pembukuan dan mempercepat
-            transaksi include website untuk media promo online bagi bisnis dan
-            usaha mu.
+            Adaedu.co
           </p>
-          <p>Pelajari dan download e-catalaog dibawah ini</p>
+          <p>Formando los genios de la programación</p>
           <a
             href="https://mesinkasir.github.io/e-catalog/dexopos%20shop.pdf"
             className="btn btn-primary border border-white"
           >
-            Retail
+            No sé este idioma
           </a>
           <a
             href="https://mesinkasir.github.io/e-catalog/dexoposrestoapps.pdf"
             className="btn btn-danger border border-white"
           >
-            Resto
+            Use google translate parcero
           </a>
         </div>
       </div>
