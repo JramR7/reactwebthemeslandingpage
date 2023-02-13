@@ -14,13 +14,12 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Apps
+                PANDORA
               </a>
             </strong>
           </h1>
           <h3>
-            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
-            laravel php artisan.
+        Commit
           </h3>
           <p>
             Mudahkan segala urursan dengan laravel apps sebuah technology modern
