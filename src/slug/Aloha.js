@@ -14,7 +14,7 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Tomás Contreras Pagee
+                Valentina Page
               </a>
             </strong>
           </h1>
