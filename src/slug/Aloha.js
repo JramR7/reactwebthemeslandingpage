@@ -19,8 +19,8 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Hackerman 
-            hello people
+        Cashier application for shops, restaurants and cafes,
+        with laravel php artisan
           </h3>
           <p>
             Adaedu.co
