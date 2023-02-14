@@ -19,7 +19,8 @@ const Aloha = () => (
             </strong>
           </h1>
           <h3>
-            Hackerman
+            Hackerman 
+            hello people
           </h3>
           <p>
             Adaedu.co
